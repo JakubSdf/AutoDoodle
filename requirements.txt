@@ -1,0 +1,5 @@
+keyboard
+mouse
+numpy
+opencv-python
+PyAutoGUI
