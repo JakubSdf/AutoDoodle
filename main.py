@@ -129,10 +129,10 @@ def main():
     # Step 5: Draw
     print(f"\n--- STEP 5: DRAWING ---")
     print(f"Drawing {len(contours_list)} contours...")
-    print(f"ATTENTION: Drawing will begin in 3 seconds.")
+    print(f"ATTENTION: Drawing will begin in 6 seconds.")
     print(f"TO STOP IMMEDIATELY: Press and hold the '{STOP_KEY}' key.")
     
-    time.sleep(3)
+    time.sleep(6)
     pyautogui.PAUSE = DRAWING_SPEED
 
     try:
