@@ -32,7 +32,7 @@ Once you have everything from Section 1 ready, open your terminal (like "Command
 1.  **Clone the repository:**
     This command downloads the bot's code to your computer.
     ```sh
-    git clone [https://github.com/JakubSdf/AutoDoodle.git](https://github.com/JakubSdf/AutoDoodle.git)
+    git clone https://github.com/JakubSdf/AutoDoodle.git
     ```
 
 2.  **Move into the folder and install libraries:**
