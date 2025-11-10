@@ -3,3 +3,4 @@ mouse
 numpy
 opencv-python
 PyAutoGUI
+colorama
