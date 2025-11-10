@@ -1,0 +1,17 @@
+{
+    "default_image_path": "images/test_image2.png",
+    "drawing_speed": 0.0,
+    "stop_key": "q",
+    "pause_key": "space",
+    "ui_confidence": 0.8,
+    "draw_button_y_offset": 75,
+    "thickness_adjust_y_offset": 20,
+    "scale_margin": 0.9,
+    "plus_icons": [
+      "plus_icon.png"
+    ],
+    "slider_handles": [
+      "thickness_slider_handle.png",
+      "thickness_slider_handle_alt.png"
+    ]
+  }

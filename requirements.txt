@@ -4,3 +4,4 @@ numpy
 opencv-python
 PyAutoGUI
 colorama
+ttkbootstrap
